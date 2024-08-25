@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Parambrata31
 - 👀 I’m interested in Java,ML,AI
-- 🌱 I’m currently learning Web Designing
+- 🌱 I’m currently working with backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- LinkedIn- www.linkedin.com/in/parambrata-chatterjee-956a96224
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: Loves to play cricket
 
 <!---
